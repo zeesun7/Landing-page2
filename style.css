@@ -54,3 +54,47 @@ button {
 h1, h2, .para1 {
     font-family: Arial, Helvetica, sans-serif;
 }
+
+.pictures {
+    width: 100px;
+    height: 100px;
+    border-radius: 25px;
+
+    
+}
+
+.container4 {
+    display: flex;
+    gap: 50px;
+    justify-content: center;
+}
+
+h3 {
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.text-image {
+    text-align: center;
+    width: 100px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.quote {
+    width: 350px;
+}
+
+.quote-section {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: #e5e7eb;
+    font-style: italic;
+    padding-top: 50px;
+    font-size: 20px;
+}
+
+.quote-author {
+    padding-left: 150px;
+    font-weight: bold;
+}
