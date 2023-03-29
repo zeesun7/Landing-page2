@@ -98,3 +98,40 @@ h3 {
     padding-left: 150px;
     font-weight: bold;
 }
+
+.container6 {
+    display: flex;
+    align-items: center;
+    background-color: #3882f6;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-left: 150px;
+    margin-right: 150px;
+    border-radius: 15px;
+}
+
+.button2 {
+    padding-top: 30px;
+    padding-left: 30px;
+    padding-bottom: 15px;
+}
+
+#button3 {
+    border-radius: 5px;
+    border-color: white;
+    margin-bottom: 15px;
+}
+
+.container5 {
+    padding-left: 70px;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#small-text {
+    font-size: 15px;
+}
+
+#big-text {
+    font-size: 20px;
+}
